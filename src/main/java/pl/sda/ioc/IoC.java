@@ -1,4 +1,9 @@
-package pl.sda;
+package pl.sda.ioc;
+
+import pl.sda.player.Mp3Player;
+import pl.sda.player.Mp4Player;
+import pl.sda.player.Mp5Player;
+import pl.sda.player.Player;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,6 @@
-package pl.sda;
+package pl.sda.seller;
+
+import pl.sda.player.Player;
 
 public class PlayerSeller implements Seller {
     private final Player player;

@@ -1,4 +1,4 @@
-package pl.sda;
+package pl.sda.player;
 
 public class Mp5Player implements Player {
     private final int price;

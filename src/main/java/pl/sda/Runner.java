@@ -1,6 +1,9 @@
 package pl.sda;
 
 
+import pl.sda.ioc.IoC;
+import pl.sda.seller.PlayerSeller;
+
 public class Runner {
     public static void main(String[] args) {
         IoC ioc = new IoC();
